@@ -8,7 +8,7 @@ Steps:
 1. Open the terminal and go to the directory containing the app.py file.
 2. For Windows (Anaconda terminal), run the following command: set API_KEY="apikey"
 
-   For Linux, run: export API_KEY="apikey"
+   For Linux, run: export API_KEY=apikey
 
    Where apikey = pk_4aba43ae608a423ea9cefaac7ab4279f
 
